@@ -1,3 +1,0 @@
-[submodule "lib/logger-cpp"]
-	path = lib/logger-cpp
-	url = https://github.com/gbmhunter/logger-cpp.git
